@@ -1,0 +1,29 @@
+{
+  "name": "arqavswproyecto",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mysql2": "^2.3.0",
+    "sequelize": "^6.6.5"
+  },
+  "devDependencies": {
+    "ts-node": "^10.2.1",
+    "typescript": "^4.4.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jricaur1/ArqAvSw.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jricaur1/ArqAvSw/issues"
+  },
+  "homepage": "https://github.com/jricaur1/ArqAvSw#readme",
+  "description": ""
+}
